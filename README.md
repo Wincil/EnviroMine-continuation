@@ -34,8 +34,9 @@
 # Credits:
 
 [Funwayguy,](https://github.com/Funwayguy)
-[GenDeathrow,](https://github.com/GenDeathrow)
-[thislooksfun](https://github.com/thislooksfun) - [original mod](https://github.com/EnviroMine/EnviroMine-1.7)
+[GenDeathrow,](https://github.com/GenDeathrow) 
+[thislooksfun](https://github.com/thislooksfun) - [original mod](https://github.com/EnviroMine/EnviroMine-1.7) - 
+[folk][https://github.com/kotmatross28729/EnviroMine-continuation]
 
 
 [AstroTibs](https://gitgud.io/AstroTibs) - [fork of the original mod, this one is based on](https://gitgud.io/AstroTibs/enviromine-for-galaxy-odyssey)
